@@ -65,7 +65,7 @@ Porichita AI eKYC System is a Python-based electronic Know Your Customer (eKYC) 
 
 1. **Run the Application**:
    ```bash
-   python ekyc_system.py
+   python app.py
    ```
 
 2. **Interface Overview**:
